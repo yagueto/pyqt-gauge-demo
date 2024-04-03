@@ -1,0 +1,10 @@
+utiliza: 
+pyside6
+qt-material -> stylesheets?
+
+
+# referencias interesantes:
+
+- [stylesheets](https://github.com/Jihadist/qt-stylesheets?tab=readme-ov-file)
+- [gauge (source)](https://github.com/StefanHol/AnalogGaugeWidgetPyQt)
+
